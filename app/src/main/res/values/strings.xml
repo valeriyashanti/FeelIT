@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FeelIT</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="logo">Logo</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_account_yet_create_one">No account yet? Create one</string>
+    <string name="log_out">Log Out</string>
+
+    <string name="hello_blank_fragment">Hello Hi fragment</string>
+    <string name="title_activity_profile_fill">ProfileFillActivity</string>
+    <string name="sample_title">Для предоставления курса приема витаминов, ответьте на несколько вопросов.</string>
+
+    <string name="sample_title2">Система подобрала для вас план витаминов</string>
+</resources>

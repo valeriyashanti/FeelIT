@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "560101889375",
+    "firebase_url": "https://feelit-568d0.firebaseio.com",
+    "project_id": "feelit-568d0",
+    "storage_bucket": "feelit-568d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560101889375:android:05555685b8a85272",
+        "android_client_info": {
+          "package_name": "com.login.valeriya.feelit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560101889375-14fafoo6dvnb4e8tgup3t45n31vtu6cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfyAw6DQpqznR_OAS9lpJz26kgz0J5oP4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
